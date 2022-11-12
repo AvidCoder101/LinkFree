@@ -1,0 +1,53 @@
+{
+  "name": "Avid Coder",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Aspiring Developer | Keen Contributor | Open-source enthusiast",
+  "avatar": "https://avatars.githubusercontent.com/u/70807684?v=4.png",
+  "tags": ["javascript", "typescript", "node.js", "html", "css", "react", "markdown"],
+  "socials": [
+    { "platform": "github", "url": "https://github.com/AvidCoder101" }
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/AvidCoder101",
+      "icon": "github"
+    },
+    {
+      "name": "Check out my Github Organisation!",
+      "url": "https://github.com/CodingContributorsLair",
+      "icon": "github"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Coding!",
+      "date": "August 2020",
+      "icon": "party popper",
+      "color": "grey",
+      "description": "Began learning the basics in August 2020",
+    }, 
+    {
+      "title": "Joined Github!",
+      "date": "September 2020",
+      "icon": "github",
+      "colour": "grey",
+      "description": "Joined one of the biggest coding hosting platforms in the world!"
+    },
+    {
+      "title": "Completed Hacktoberfest 2021!",
+      "date": "October 2021",
+      "icon": "github",
+      "colour": "grey",
+      "description": "First time completing Hacktoberfest"
+    },
+    {
+      "title": "Completed Hacktoberfest 2022!",
+      "date": "October 2022",
+      "icon": "github",
+      "colour": "grey",
+      "description": "Second time completing Hacktoberfest"
+    }
+  ]
+}
