@@ -4,7 +4,15 @@
   "type": "personal",
   "bio": "Aspiring Developer | Keen Contributor | Open-source enthusiast",
   "avatar": "https://avatars.githubusercontent.com/u/70807684?v=4.png",
-  "tags": ["javascript", "typescript", "node.js", "html", "css", "react", "markdown"],
+  "tags": [
+    "javascript",
+    "typescript",
+    "node.js",
+    "html",
+    "css",
+    "react",
+    "markdown"
+  ],
   "socials": [
     { "platform": "github", "url": "https://github.com/AvidCoder101" }
   ],
@@ -26,8 +34,8 @@
       "date": "August 2020",
       "icon": "party popper",
       "color": "grey",
-      "description": "Began learning the basics in August 2020",
-    }, 
+      "description": "Began learning the basics in August 2020"
+    },
     {
       "title": "Joined Github!",
       "date": "September 2020",
